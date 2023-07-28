@@ -27,6 +27,7 @@
 
 .ds4 .trigger.left {
     float: left;
+    margin-left: 96px;
 }
 
 .ds4 .trigger.right {
