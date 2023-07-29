@@ -6,9 +6,13 @@
         margin-top: -280px;*/
 }
 
+.ds4.disconnected {
+    background: url(disconnect.gif);
+}
+
 .ds4.disconnected div {
     display: none;
-}
+}}
 
 .ds4 .triggers {
     width: 598px;
